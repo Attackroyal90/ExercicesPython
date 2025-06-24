@@ -2,6 +2,7 @@ print("Le prix du café est de 0.60€")
 print("Les pièces acceptées : 2€ 1€ 0.50€ 0.20€ 0.10€ 0.05€")
 montant_paye = 0.0
 
+"Recupere l'argent pour le cafe avec seulement des pieces valides"
 while montant_paye < 0.6 :
     paiement = float(input("Saisissez la valeur du montant de votre pièce :"))
     if paiement == 2 or paiement == 1 or paiement == 0.5 or paiement == 0.2 or paiement == 0.1 or paiement == 0.05 :
@@ -10,6 +11,7 @@ while montant_paye < 0.6 :
     else:
         print("La valeur de la pièce est incorrecte, veuillez réessayer")
 
+"Rend la monnaie en pieces valides"
 if montant_paye > 0.6 :
     monnaie_brute = montant_paye - 0.6
     monnaie  = round(monnaie_brute, 2)
