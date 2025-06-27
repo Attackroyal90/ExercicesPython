@@ -1,25 +1,6 @@
 # 📝 Cheatsheet Python
 
-TITRES
-
-# Titre niveau 1
-## Titre niveau 2
-### Titre niveau 3
-#### Titre niveau 4
-##### Titre niveau 5
-###### Titre niveau 6
-
-
-TEXTE
-
-Gras  
-Italique  
-Barré  
-> Citation
----
-
-
-LIENS, IMAGES ET SÉPARATEURS
+S'entrainer au hacking ou a la capture de flag
 
 [Hackropole](https://hackropole.fr/fr/)
 
