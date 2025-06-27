@@ -21,9 +21,9 @@ Barré
 
 LIENS, IMAGES ET SÉPARATEURS
 
-[Hackropole]([https://hackropole.fr/fr/])
+[Hackropole](https://hackropole.fr/fr/)
 
-[Cryptohack]([https://cryptohack.org/])
+[Cryptohack](https://cryptohack.org/)
 
 ---
 
