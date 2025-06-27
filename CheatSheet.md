@@ -1,4 +1,4 @@
-# 📝 Cheatsheet Markdown
+# 📝 Cheatsheet Python
 
 TITRES
 
@@ -21,45 +21,36 @@ Barré
 
 LIENS, IMAGES ET SÉPARATEURS
 
-[Lien cliquable](https://example.com)
+[Hackropole]([https://hackropole.fr/fr/])
 
-![Texte alternatif](https://via.placeholder.com/150)
+[Cryptohack]([https://cryptohack.org/])
 
 ---
 
 
-LISTES
-
-- Élément 1
-- Élément 2
-  - Sous-élément
-
-1. Étape 1
-2. Étape 2
-
-
-CODE
+# Exemples de codes
 
 code inline
 
 ```python
-# Bloc de code Python
+# Ligne simple
 print("Hello world")
 
+#Variable simple
+montant_paye = 0.0
 
-TABLEAUX
+# Boucle while (attention à la tabulation)
+while montant_paye < 0.6 :
 
-| Colonne 1 | Colonne 2 |
-| --------- | --------- |
-| Ligne 1   | Valeur    |
-| Ligne 2   | Valeur    |
+#Condition
+ if paiement == 2 or paiement == 1:
+ else:
 
+#Fonction simple
+def cuisson_boeuf() :
+    global temps_coeff
+    if mode_cuisson == "bleu" :
+    return temps_coeff * poids_viande
 
-EMOJIS (à vérifier)
-
-:rocket: :computer: :lock: :snake: :memo: :white_check_mark:
-
-
-BADGES
-
-![Build Status](https://img.shields.io/badge/status-active-brightgreen)
+#Saisie utilisateur
+type_viande = input("Choisissez le type de viande entre le boeuf, le canard et le porc : ")
